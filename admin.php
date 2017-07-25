@@ -1,6 +1,8 @@
 <?php header('Content-Type: text/html; charset=utf-8'); 
 session_start(); // Стартуем сессию
 
+//я здесь нагадил
+
 $link = mysql_connect('localhost','root','');
 mysql_select_db('aaa');
 $query = "SELECT * FROM aaa.orders";
