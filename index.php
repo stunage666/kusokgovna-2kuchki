@@ -66,7 +66,6 @@ elseif ($_SESSION['role'] === "Operator") {
 <head>
      <script src="https://yastatic.net/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    теперь это лежит в члене
     <meta charset="UTF-8">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name = "author" content = "Grigory Zdanovich & Andrey Zaitsev"/>
